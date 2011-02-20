@@ -1,0 +1,12 @@
+Warblender
+----------
+Adrian 'tekahera' Ghizaru, Paul "archpollux" Sandulescu
+
+Blender importer for Blizzard Warcraft 3 MDX 3D geometry files.
+
+
+This code was written in fall of 2004 for Blender 2.33. While it was working at the time, it's been dormant since and we haven't tested it with newer versions of Blender or Warcraft 3. It was able to (mostly) properly import:
+- geometry
+- textures (using external software to convert BLP to PNG)
+- armature
+
